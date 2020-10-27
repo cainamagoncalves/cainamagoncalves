@@ -17,7 +17,7 @@
 
 <img align="left" alt="CSS" width="26px" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" />
 
-<img align="left" alt="Webpack" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />
+<img align="left" alt="Webpack" width="30px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />
 
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/452/bootstrap.png" />
 
