@@ -11,7 +11,7 @@
 
 ### Linguagens e Ferramentas 🔨🔧
 
-<img align="left" alt="Javascript" 26px src="https://img2.gratispng.com/20181125/gos/kisspng-react-javascript-redux-vue-js-angular-javascript-jquery-5bfa71f29a9d93.7758622015431398266333.jpg" <a href="https://www.javascript.com" /> />
+<img align="left" alt="Javascript" 26px src="https://img2.gratispng.com/20181125/gos/kisspng-react-javascript-redux-vue-js-angular-javascript-jquery-5bfa71f29a9d93.7758622015431398266333.jpg" />
 
 <img align="left" alt="Html" width="26px" src="https://banner2.cleanpng.com/20180425/rwe/kisspng-web-development-html-responsive-web-design-logo-ja-html-5ae04a94d3ebb9.2609257315246485968681.jpg" />
 
