@@ -1,7 +1,5 @@
 ### Olá, Sou Cainã! 👋
 
-### Bruno Slamek 👋
-
 ---
 
 ### Contato 📲
