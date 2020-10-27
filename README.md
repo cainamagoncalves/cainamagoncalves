@@ -29,9 +29,9 @@
 
 ### Projetos 📈
 
-  - Projeto Flappy Bird <img align="left" width="20px" src="https://icon2.cleanpng.com/20180403/dkw/kisspng-flappy-bird-app-store-sprite-scratch-5ac321829754e9.0109309915227375386199.jpg" /> : https://bityli.com/J0NLw
+  - Projeto Flappy Bird : https://bityli.com/J0NLw
   
-  - Projeto Galeria <img align"left" width="20px" src= "https://pngimage.net/wp-content/uploads/2018/06/galeri-icon-png-2.png" /> : https://bityli.com/hzJop
+  - Projeto Galeria : https://bityli.com/hzJop
 
 
 
