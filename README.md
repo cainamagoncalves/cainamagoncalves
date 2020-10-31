@@ -21,7 +21,7 @@
 
 <img align="left" alt="Bootstrap" width="26px" src="https://img.icons8.com/color/452/bootstrap.png" />
 
-<img align="left" alt="NodeJS" width="26px" src="https://www.pngfind.com/pngs/m/683-6833893_node-js-logo-png-transparent-png.png" />
+<img align="left" alt="NodeJS" width="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" />
 
 
 <br />
