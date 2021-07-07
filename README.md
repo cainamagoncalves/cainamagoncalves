@@ -32,6 +32,10 @@
   - Projeto Flappy Bird : https://bityli.com/J0NLw
   
   - Projeto Galeria : https://bityli.com/hzJop
+  
+  - Projeto Calculadora: https://bit.ly/3dQ3zpq
+
+  - Projeto Cadastro de Usuário: https://bit.ly/3jP1SfH
 
 <br />
 
