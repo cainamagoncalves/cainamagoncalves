@@ -29,7 +29,7 @@
 
 ### Projetos 📈
 
-  - Projeto Flappy Bird : https://bityli.com/J0NLw
+  - Projeto Flappy Bird : https://bit.ly/2U1zIUi
   
   - Projeto Galeria : https://bityli.com/hzJop
   
