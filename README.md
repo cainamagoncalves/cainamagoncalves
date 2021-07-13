@@ -31,7 +31,7 @@
 
   - Projeto Flappy Bird : https://bit.ly/2U1zIUi
   
-  - Projeto Galeria : https://bityli.com/hzJop
+  - Projeto Galeria : https://bit.ly/2U1zIUi
   
   - Projeto Calculadora: https://bit.ly/3dQ3zpq
 
