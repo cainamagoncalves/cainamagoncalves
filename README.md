@@ -18,7 +18,7 @@
 
 <img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
 
-<img align="left" alt"Typescript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+<img align="left" alt="Typescript" width="26px" src="https://files.passeidireto.com/0b37cd1c-d325-4981-a7de-b7c2a655afaa/0b37cd1c-d325-4981-a7de-b7c2a655afaa.png" />
 
 <img align="left" alt="Html" width="26px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
 
