@@ -2,6 +2,11 @@
 
 ---
 
+### Sobre
+
+<p> Estudante de Engenharia da Computação, apaixonado por desenvolvimento de aplicações de maneira geral, com preferência pelo front-end. Amo aprender com os erros e converter café em código. Adoro compartilhar conhecimento e ajudar outras pessoas. Entusiasta por Javascript e sua stack, principalmente pela biblioteca React, a qual escolhi para me aperfeiçoar e especializar. </p>
+
+
 ### Contato 📲
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/cainã-gonçalves-42128614b/)
@@ -41,7 +46,8 @@
 
 ### Portfolio
   
-  - https://cainamagoncalves.github.io/Portfolio/
+  - https://cainamagoncalves.github.io/Portfolio/ (versão 1)
+  - https://cainagoncalvesportfoliov2.netlify.app (versão 2)
 
 <br />
 
