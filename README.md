@@ -11,11 +11,11 @@
 
 ### Linguagens e Ferramentas 🔨🔧
 
-<img align="left" alt="Javascript" width="26px" src="https://img2.gratispng.com/20181125/gos/kisspng-react-javascript-redux-vue-js-angular-javascript-jquery-5bfa71f29a9d93.7758622015431398266333.jpg" />
+<img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
 
-<img align="left" alt="Html" width="26px" src="https://banner2.cleanpng.com/20180425/rwe/kisspng-web-development-html-responsive-web-design-logo-ja-html-5ae04a94d3ebb9.2609257315246485968681.jpg" />
+<img align="left" alt="Html" width="26px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
 
-<img align="left" alt="CSS" width="26px" src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png" />
+<img align="left" alt="CSS" width="26px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />
 
 <img align="left" alt="React Native" width="30px" src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" />
 
