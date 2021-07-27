@@ -22,6 +22,8 @@
 
 <img align="left" alt="Html" width="26px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
 
+<img align="left" alt="Html" width="26px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
+
 <img align="left" alt="CSS" width="26px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />
 
 <img align="left" alt="React Native" width="30px" src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" />
