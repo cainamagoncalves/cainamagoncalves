@@ -16,9 +16,9 @@
 
 ### Linguagens e Ferramentas 🔨🔧
 
-<img align="left" alt"Typescript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" />
-
 <img align="left" alt="Javascript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />
+
+<img align="left" alt"Typescript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" />
 
 <img align="left" alt="Html" width="26px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />
 
