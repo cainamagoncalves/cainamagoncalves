@@ -1,16 +1,16 @@
-### Olá, Sou Cainã! 👋
+### Hello, Good to see you! 👋
 
 ---
 
-### Sobre
+### About
 
-<p> Estudante de Engenharia da Computação, apaixonado por desenvolvimento de aplicações de maneira geral, com preferência pelo front-end. Amo aprender com os erros e converter café em código. Adoro compartilhar conhecimento e ajudar outras pessoas. Entusiasta por Javascript e sua stack, principalmente pela biblioteca React, a qual escolhi para me aperfeiçoar e especializar. </p>
+<p> I'm a Computer Enginering studying, passionate to aplications development in general, with preference about Front-end. Love learn with bugs and errors and convert coffee in code. Share knowledge and help people is amazing and important. Enthusiastic for Javascritpt and it´s ecosystem, with aditional focus on library React, one which I´be decided to improve and specialize. </p>
 
 
-### Contato 📲
+### Find me On 📲
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/cainã-gonçalves-42128614b/)
-
+<a href="mailto:moaraadrean@gmail.com" target="blank" ><img align="left" width="22px" src="https://www.freepnglogos.com/pics/email-logo-png"></a>
 
 <br />
 
