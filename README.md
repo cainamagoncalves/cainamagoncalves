@@ -10,8 +10,8 @@
 ### Find me On 📲
 
 <p align="left"> 
-<a href="https://www.linkedin.com/in/cainã-gonçalves-42128614b/" target="blank"><img align="left"  heigth="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" /></a>
-<a href="mailto:moaraadrean@gmail.com" target="blank" ><img align="left" heigth="40" src="https://www.ocirurgiaovascular.com.br/backend/wp-content/uploads/2016/04/email-icone-png.png"></a>
+<a href="https://www.linkedin.com/in/cainã-gonçalves-42128614b/" target="blank"><img align="left"  height="40" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" /></a>
+<a href="mailto:moaraadrean@gmail.com" target="blank" ><img align="left" height="40" style="vertical-align:top; margin:4px" src="https://www.ocirurgiaovascular.com.br/backend/wp-content/uploads/2016/04/email-icone-png.png"></a>
 </p>
 
 <br />
