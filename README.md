@@ -74,7 +74,8 @@
 
 ### Stats
 
-<img align="left" alt="Cainã Gonçalves Github Stats" src="https://github-readme-stats.vercel.app/api?username=cainamagoncalves&show_icons=true&hide_border=true" />
-<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight" />
+<img align="left" alt="Cainã Gonçalves Github Stats" src="https://github-readme-stats.vercel.app/api?username=cainamagoncalves&show_icons=true&hide_border=true&yheme=tokyonight" />
+<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cainamagoncalves&theme=tokyonight" />
+
 <br />
 <br />
