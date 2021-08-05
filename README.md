@@ -45,13 +45,11 @@
 
   ### Older Projects
   - Projeto Flappy Bird: https://bit.ly/2U1zIUi
-  
   - Projeto Galeria: https://bit.ly/2U7PE7l
   
   
   ### Mid-Term Projects
   - Projeto Calculadora: https://bit.ly/3dQ3zpq
-
   - Projeto Cadastro de Usuário: https://bit.ly/3jP1SfH
   
   ### Most recent Projetcs
