@@ -36,7 +36,7 @@
   
   <a href="https://sass-lang.com" target="blank"> <img align="left" alt="Sass" src="https://img.icons8.com/color/452/sass-avatar.png" height="40" style="vertical-align:top; margin:4px"> </a>
   
-    <a href="https://nextjs.org" target="blank"> <img align="left" alt="Next" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TYNMOrvt--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/si1txhgv68vu9ha3kxqo.png" height="40" style="vertical-align:top; margin:4px"> </a>
+  <a href="https://nextjs.org" target="blank"> <img align="left" alt="Next" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" height="40" style="vertical-align:top; margin:4px"> </a>
    
 </p>
 
