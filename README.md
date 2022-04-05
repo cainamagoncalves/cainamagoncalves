@@ -28,7 +28,7 @@
 
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank"> <img align="left" alt="CSS" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="40" style="vertical-align:top; margin:4px"> </a>
 
-  <a href="https://pt-br.reactjs.org" target="blank"> <img align="left" alt="React" src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="40" style="vertical-align:top; margin:4px"> </a>
+  <a href="https://pt-br.reactjs.org" target="blank"> <img align="left" alt="React" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="40" style="vertical-align:top; margin:4px"> </a>
 
   <a href="https://getbootstrap.com" target="blank"> <img align="left" alt="Bootstrap" src="https://img.icons8.com/color/452/bootstrap.png" height="40" style="vertical-align:top; margin:4px"  > </a>
 
