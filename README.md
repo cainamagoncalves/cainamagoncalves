@@ -7,12 +7,21 @@
 <p> I'm a Computer Enginering studying, passionate to aplications development in general, with preference about Front-end. Love learn with bugs and errors and convert coffee in code. Share knowledge and help people is amazing and important. Enthusiastic for Javascritpt and it´s ecosystem, with aditional focus on library React, one which I´be decided to improve and specialize. </p>
 
 
-### Find me On 📲
+### Find me On 🏷
 
-<p align="left"> 
-<a href="https://www.linkedin.com/in/cainã-gonçalves-42128614b/" target="blank"><img align="left"  height="40" style="vertical-align:top; margin:4px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" /></a>
-<a href="mailto:moaraadrean@gmail.com" target="blank" ><img align="left" height="40" style="vertical-align:top; margin:4px" src="https://www.ocirurgiaovascular.com.br/backend/wp-content/uploads/2016/04/email-icone-png.png"></a>
-</p>
+<div>  
+  <a href="https://wa.me/send?phone=5512981591418" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/cainã-gonçalves/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn" />
+  </a>
+  
+  <a href="mailto:moaraadrean@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" title="Gmail" />
+  </a>
+</div>
 
 <br />
 
@@ -41,30 +50,6 @@
 </p>
 
 <br />
-<br />
-
-## Projects 📈
-
-  ### Older Projects
-  - Projeto Flappy Bird: https://bit.ly/2U1zIUi
-  - Projeto Galeria: https://bit.ly/2U7PE7l
-  
-  
-  ### Mid-Term Projects
-  - Projeto Calculadora: https://bit.ly/3dQ3zpq
-  - Projeto Cadastro de Usuário: https://bit.ly/3jP1SfH
-  
-  ### Most recent Projetcs
-  
-  - DtMoney: https://github.com/cainamagoncalves/dtmoney
-  - Ignews: https://bit.ly/3xmvc09
-
- ## Challenges bootcamp Ignite 
-   
-  - Challenge01 - https://github.com/cainamagoncalves/task01-ignite
-  - Challenge02 - https://github.com/cainamagoncalves/task02-ignite
-  - Challenge03 - https://github.com/cainamagoncalves/task03-ignite
-  
 <br />
 
 ### Portfolio
