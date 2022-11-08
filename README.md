@@ -29,7 +29,7 @@
 
 ### Languages and Tools 🔨🔧
 
-<p align="center"><span>Languages</span> 
+<p align="center">Languages
   <a href="https://www.typescriptlang.org/docs/" target="blank"> <img align="left" alt="Typescript" src="https://files.passeidireto.com/0b37cd1c-d325-4981-a7de-b7c2a655afaa/0b37cd1c-d325-4981-a7de-b7c2a655afaa.png" height="20" style="vertical-align:top; margin:4px"> </a> 
 </p>
   
