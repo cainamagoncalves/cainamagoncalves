@@ -29,26 +29,34 @@
 
 ### Languages and Tools 🔨🔧
 
-<p align="center"> 
+<p align="center"><span>Languages</span> 
+  <a href="https://www.typescriptlang.org/docs/" target="blank"> <img align="left" alt="Typescript" src="https://files.passeidireto.com/0b37cd1c-d325-4981-a7de-b7c2a655afaa/0b37cd1c-d325-4981-a7de-b7c2a655afaa.png" height="20" style="vertical-align:top; margin:4px"> </a> 
+</p>
+  
+<p align="center"><span>Frontend tools</tools>
 
-  <a href="https://devdocs.io/javascript/" target="blank"> <img align="left" alt="Javascript"     src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="40" style="vertical-align:top; margin:4px"> </a>
-
-  <a href="https://www.typescriptlang.org/docs/" target="blank"> <img align="left" alt="Typescript" src="https://files.passeidireto.com/0b37cd1c-d325-4981-a7de-b7c2a655afaa/0b37cd1c-d325-4981-a7de-b7c2a655afaa.png" height="40" style="vertical-align:top; margin:4px"> </a>
-
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank"> <img align="left" alt="Html" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" height="40" style="vertical-align:top; margin:4px"> </a>
-
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank"> <img align="left" alt="CSS" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="40" style="vertical-align:top; margin:4px"> </a>
-
-  <a href="https://pt-br.reactjs.org" target="blank"> <img align="left" alt="React" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="40" style="vertical-align:top; margin:4px"> </a>
-
-  <a href="https://getbootstrap.com" target="blank"> <img align="left" alt="Bootstrap" src="https://img.icons8.com/color/452/bootstrap.png" height="40" style="vertical-align:top; margin:4px"  > </a>
-
-  <a href="https://nodejs.org/en/" target="blank"> <img align="left" alt="NodeJS" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" height="40"      style="vertical-align:top; margin:4px"> </a>
+  <a href="https://pt-br.reactjs.org" target="blank"> <img align="left" alt="React" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" height="20" style="vertical-align:top; margin:4px"> </a>
+  
+  <a href="https://chakra-ui.com" target="blank"> <img align="left" alt="Chakra UI" src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/logo/logo-colored@2x.png?raw=true" height="20" style="vertical-align:top; margin:4px"> </a>
+  
+  <a href="https://styled-components.com" target="blank"> <img align="left" alt="Styled Components" src="https://miro.medium.com/max/318/1*7jRD5QhgARucFKvRHFxpOg.png" height="20" style="vertical-align:top; margin:4px"> </a>
   
   <a href="https://sass-lang.com" target="blank"> <img align="left" alt="Sass" src="https://img.icons8.com/color/452/sass-avatar.png" height="40" style="vertical-align:top; margin:4px"> </a>
   
   <a href="https://nextjs.org" target="blank"> <img align="left" alt="Next" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" height="40" style="vertical-align:top; margin:4px"> </a>
-   
+  
+ </p>
+ 
+ <p align="center"><span>Backend tools</span>
+    
+  <a href="https://nodejs.org/en/" target="blank"> <img align="left" alt="NodeJS" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/node-512.png" height="20" style="vertical-align:top; margin:4px"> </a>
+  
+  <a href="https://typeorm.io" target="blank"> <img align="left" alt="Typeorm" src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" height="20" style="vertical-align:top; margin:4px"> </a>
+  
+  <a href="https://sequelize.org" target="blank"> <img align="left" alt="Sequelize" src="https://hyunseob.github.io/images/sequelizejs.png" height="20" style="vertical-align:top; margin:4px"> </a>
+  
+  <a href="https://swagger.io" target="blank"> <img align="left" alt="Swagger" src="https://help.apiary.io/images/swagger-logo.png" height="20" style="vertical-align:top; margin:4px"> </a>
+  
 </p>
 
 <br />
