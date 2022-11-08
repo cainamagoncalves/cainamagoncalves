@@ -29,10 +29,9 @@
 
 ### Languages and Tools 🔨🔧
 
-<div align="center">
+<div style="display: flex; align-items: center">
   <span>Languages</span>
-  <p align="left"> 
-    <a href="https://www.typescriptlang.org/docs/" target="blank"> <img align="left" alt="Typescript" src="https://files.passeidireto.com/0b37cd1c-d325-4981-a7de-    b7c2a655afaa/0b37cd1c-d325-4981-a7de-b7c2a655afaa.png" height="20" style="vertical-align:top; margin:4px"> </a> 
+  <p align="left"> <a href="https://www.typescriptlang.org/docs/" target="blank"> <img align="left" alt="Typescript"     src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="20" style="vertical-align:top; margin:4px"> </a> 
 </p>
 </div>
 
