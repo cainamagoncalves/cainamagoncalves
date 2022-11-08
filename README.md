@@ -4,7 +4,9 @@
 
 ### About
 
-<p> I'm a Computer Enginering studying, passionate to aplications development in general, with preference about Front-end. Love learn with bugs and errors and convert coffee in code. Share knowledge and help people is amazing and important. Enthusiastic for Javascritpt and it´s ecosystem, with aditional focus on library React, one which I´be decided to improve and specialize. </p>
+<h3>Hi, nice too meet you!</h3>
+
+<p>I'm a fullstack developer, focused on javascript ecossystem. I love to help peoples with issues and problems and learn somenthing new everyday. I'm allways looking to improve my knowledge about all tools related with Js, and apply the best pratices too, like SOLID, Clean code, design patterns like Singleton, YAGNI and others.</p>
 
 
 ### Find me On 🏷
