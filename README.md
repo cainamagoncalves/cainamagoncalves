@@ -6,7 +6,7 @@
 
 <h3>Hi, nice too meet you!</h3>
 
-<p>I'm a fullstack developer, focused on javascript ecossystem. I love to help peoples with issues and problems and learn somenthing new everyday. I'm allways looking to improve my knowledge about all tools related with Js, and apply the best pratices too, like SOLID, Clean code, design patterns like Singleton, YAGNI and others.</p>
+<p>I'm a fullstack developer, focused on javascript ecossystem. I love to help peoples with issues and problems and learn somenthing new everyday. I'm allways looking to improve my knowledge about all tools related with development, and apply the best pratices too, like YAGNI, DRY, KISS,  SOLID, Clean code and use design patterns like Singleton, Factory, Repository, and others.</p>
 
 
 ### Find me On 🏷
