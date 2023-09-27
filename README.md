@@ -4,9 +4,9 @@
 
 ### About
 
-<h3>Hi, nice too meet you!</h3>
+<h3>Hi, how's going!</h3>
 
-<p>I'm a fullstack developer, focused on javascript ecossystem. I love to help peoples with issues and problems and learn somenthing new everyday. I'm allways looking to improve my knowledge about all tools related with development, and apply the best pratices too, like YAGNI, DRY, KISS,  SOLID, Clean code and use design patterns like Singleton, Factory, Repository, and others.</p>
+<p>I'm a JavaScript passionate developer with a big interest in learn new thing and help people. A ☕ and a 🐛 are the perfect match!</p>
 
 
 ### Find me On 🏷
@@ -31,7 +31,7 @@
 
 <div>
   <p>Languages</p>
- <a href="https://www.typescriptlang.org/docs/" target="blank"> <img align="left" alt="Typescript"     src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="30" style="vertical-align:top; margin:4px"> </a> 
+ <a href="https://www.typescriptlang.org/docs/" target="blank"> <img align="left" alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="30" style="vertical-align:top; margin:4px"> </a> 
 </div>
 
 <br />
@@ -48,6 +48,8 @@
   <a href="https://sass-lang.com" target="blank"> <img align="left" alt="Sass" src="https://img.icons8.com/color/452/sass-avatar.png" height="30"> </a>
   
   <a href="https://nextjs.org" target="blank"> <img align="left" alt="Next" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" height="30"> </a>
+
+   <a href="https://nextjs.org" target="blank"> <img align="left" alt="Next" src="https://getlogovector.com/wp-content/uploads/2021/01/tailwind-css-logo-vector.png" height="30"> </a>
 </div>
 
  <br />
