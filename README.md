@@ -27,8 +27,6 @@
 
 <br />
 
-🚧 I'm thinking about what I put hear in my description. 🚧
-
 <br />
 
 ### Stats
